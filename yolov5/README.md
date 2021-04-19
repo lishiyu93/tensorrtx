@@ -89,3 +89,6 @@ python yolov5_trt.py
 
 See the readme in [home page.](https://github.com/wang-xinyu/tensorrtx)
 
+# My update
+1. 增加了一个CMakeList_win10.txt，可以在Windows 10 上自动配置OpenCV、Dirent库和CUDA。---20210419
+[说明文档.](https://blog.csdn.net/lishiyu93/article/details/115861265?spm=1001.2014.3001.5501)
